@@ -1,6 +1,7 @@
 ---
 title: "My first RMarkdown"
 author: "Nicolás Kozak"
+date: today
 output: pdf_document
 ---
 
